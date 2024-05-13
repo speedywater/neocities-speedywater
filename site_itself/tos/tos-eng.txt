@@ -1,0 +1,51 @@
+Last updated: 13/05/2024 (DD/MM/YYYY)
+Speedywater's voicebanks
+speedywater.carrd.co
+speedywater.neocities.org
+
+Voicebank Terms of Use
+
+Attribution
+When publishing work using this voicebank, you are required to state the name of this voicebank.
+It is not necessary to state the name of this voicebank's author.
+When attributing the name or author of the voicebank used, you must write the names exactly as given. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
+
+Usage Content
+For all the characters and their voicebanks, you are free to create sexual content, as long as the design and image of the character isnt involved in the sexual content, only the voice. Applies even if the character's age is changed to be older. The voicebanks/characters that are excempted from this is Hayakawa Kagekazu and Kuromori Inu, where all seuxal content is allowed as long as the characters are depicted to be above the age of 18
+You are free to create violent content.
+Do not create political and religious content.
+The following types of content are unconditionally prohibited:
+- Criminal or illegal content
+- Explicit underage sexual content
+- Bigotry and hateful content
+- Violations of UTAU's Usage Policy
+- Usage of the voicebanks and character for FNF (Friday night Funkin) are forbidden.
+speedywater reserves the right to request takedown of published content at any time, and users are expected to comply.
+
+Character and Artwork
+Published work using the voicebank may or may not include visual depictions of the voicebank.
+Artwork does not need to depict the voicebank character. This voicebank can be used in conjunction with artwork of other characters.
+Existing artwork of the voicebank character cannot be used without prior permission from the individual artists. However, when publishing work featuring the voicebank, you may freely use artworks included in each installation of the voicebanks.
+
+Commercial Use
+Please contact the author for individual approval to use this voicebank commercially. A fee will be included and priced depending on the project.
+You cannot use this voicebank or any included assets in projects involving generative AI, non-fungible tokens (NFTs) or cryptocurrency.
+
+Editing
+You can edit the voicebank's audio in any way, except for pitch or formant manipulation.
+You are free to edit any configuration files, such as oto.ini or FRQ files.
+You can only use these voicebanks in UTAU and similar singing synthesizers that do not require any edits to the voicebank.
+You are permitted to use the contents of this voicebank outside of singing synthesizers, such as for music production or video production.
+
+Redistribution
+Before a voicebank is discontinued, you may only share it's configuration files, such as oto.ini or FRQ files. (If voicebank is a non-UTAU voicebank, redistribution is absolutely forbidden).
+After a voicebank is discontinued, you are free to redistribute part or all of the voicebank. You must correctly attribute the voicebank's name and author, and clearly state any changes you have made.
+You are free to share rendered singing vocals created with this voicebank.
+Once a voicebank has been discontinued, all avalible download links by the creator (speedywater) will be taken down by speedywater himself, may not apply if speedywater is the one deceased himself, as it would obviously impossible to update the voicebank's upload links since the uploader is dead.
+The voicebank is also considered discontinued when the voicer or creator is deceased.
+
+Disclaimer
+speedywater holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebanks or characters.
+speedywater holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
+These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and includes additional edits.
+- KN (speedywater)
