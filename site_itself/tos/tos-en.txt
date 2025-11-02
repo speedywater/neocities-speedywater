@@ -1,5 +1,4 @@
 Last updated: 13/05/2024 (DD/MM/YYYY)
-Speedywater's voicebanks
 speedywater.carrd.co
 speedywater.neocities.org
 
@@ -48,4 +47,4 @@ Disclaimer
 speedywater holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebanks or characters.
 speedywater holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and includes additional edits.
-- KN (speedywater)
+- speedywater

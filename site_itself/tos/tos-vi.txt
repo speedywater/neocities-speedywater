@@ -1,17 +1,19 @@
 Last updated: 13/05/2024 (DD/MM/YYYY)
-Speedywater's voicebanks
 speedywater.carrd.co
 speedywater.neocities.org
 
-Voicebank Terms of Use
+Thuật ngữ:
++ Voicebank - (Tiếng Nhật: 音源(ongen)(Hán Việt: Âm Nguyên))Tạm dịch là Ngân Hàng Thoại. Một bộ sưu tập các mẫu giọng nói để sử dụng trong phần mềm tổng hợp giọng nói. Cũng được sử đụng để chỉ chính nhân vật.
 
-Attribution
-When publishing work using this voicebank, you are required to state the name of this voicebank.
-It is not necessary to state the name of this voicebank's author.
-When attributing the name or author of the voicebank used, you must write the names exactly as given. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
+Điều Khoản Sử Dụng Voicebank
 
-Usage Content
-For all the characters and their voicebanks, you are free to create sexual content, as long as the design and image of the character isnt involved in the sexual content, only the voice. Applies even if the character's age is changed to be older. The voicebanks/characters that are excempted from this is Hayakawa Kagekazu and Kuromori Inu, where all seuxal content is allowed as long as the characters are depicted to be above the age of 18
+1. Quyền hành
+- Khi xuất bản một sản phẩm có sử dụng voicebank bất kỳ, người dùng BẮT BUỘC phải ghi tên của voicebank được sử dụng trong sản phẩm. Bắt buộc khải ghi chính xác tên của voicebank (được liệt kê ở file character.yaml)
+- Khi xuất bản một sản phẩm có sử dụng voicebank bất kỳ, việc ghi công (crediting) cho tôi (speedywater) hoặc người lồng tiếng cho voicebank (Voice provider) là không cần thiết.
+- When attributing the name or author of the voicebank used, you must write the names exactly as given. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
+
+2. Sử dụng
+For all the characters and their voicebanks, you are free to create sexual content, as long as the design and image of the character isnt involved in the sexual content, only the voice. Applies even if the character's age is changed to be older. The voicebanks/characters that are excempted from this is Hayakawa Kagekazu and Kuromori Ryoken, where all seuxal content is allowed as long as the characters are depicted to be above the age of 18
 You are free to create violent content.
 Do not create political and religious content.
 The following types of content are unconditionally prohibited:
@@ -48,4 +50,4 @@ Disclaimer
 speedywater holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebanks or characters.
 speedywater holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and includes additional edits.
-- KN (speedywater)
+- speedywater
